@@ -2,6 +2,10 @@
 # example: 1-1-1-1 https://cum.bruh/cape.png
 # these are comments
 # interatomic (me)
-2f2b69af-7651-4960-8379-6df999b88d75 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
+2f2b69af-7651-4960-8379-6df999b88d75 https://github.com/cornos/cornos-files/raw/master/contribcape.png
 # ashley
-56f5721e-2d19-416a-a811-2aed4f982c51 https://github.com/cornos/atomicFiles/raw/master/lTyBpwA.png
+56f5721e-2d19-416a-a811-2aed4f982c51 https://github.com/cornos/atomicFiles/raw/master/ashley.png
+# sexyzine
+4b476b2e-2448-4c90-8fe9-fe0983f3d68e https://github.com/cornos/atomicFiles/raw/master/zinezockt_big.png
+# h4rl
+76db8532-a54e-4227-b685-55446351c3c4 https://github.com/cornos/atomicFiles/raw/master/harl.png
