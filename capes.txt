@@ -2,7 +2,7 @@
 # example: 1-1-1-1 https://cum.bruh/cape.png
 # these are comments
 # interatomic (me)
-2f2b69af-7651-4960-8379-6df999b88d75 https://github.com/cornos/cornos-files/raw/master/contribcape.png
+2f2b69af-7651-4960-8379-6df999b88d75 https://github.com/cornos/atomicFiles/raw/master/contribcape.png
 # authom
 727d046e-465b-46c1-9ff3-1f096443f2e3 https://github.com/cornos/atomicFiles/raw/master/contribcape.png
 # ashley
