@@ -6,7 +6,7 @@
 # authom
 727d046e-465b-46c1-9ff3-1f096443f2e3 https://github.com/cornos/atomicFiles/raw/master/contribcape.png
 # ashley
-56f5721e-2d19-416a-a811-2aed4f982c51 https://github.com/cornos/atomicFiles/raw/master/ashley.png
+56f5721e-2d19-416a-a811-2aed4f982c51 https://github.com/cornos/atomicFiles/raw/master/ashley2.png
 # sexyzine
 4b476b2e-2448-4c90-8fe9-fe0983f3d68e https://github.com/cornos/atomicFiles/raw/master/zinezockt_big.png
 # h4rl
