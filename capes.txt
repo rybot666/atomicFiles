@@ -15,3 +15,5 @@
 01b8306f-9e5b-4f26-b2ba-31b904efef71 https://github.com/cornos/atomicFiles/raw/master/64BitSkitTayron.png
 # MisterX
 47f7185c-5a27-4ab5-82e8-98e7e20c85b6 https://github.com/cornos/atomicFiles/raw/master/misterxcape.png
+# Eren.
+ade36e5c-cee6-40f9-b534-1b3d8365d48e https://github.com/cornos/atomicFiles/raw/master/erenCape.png
