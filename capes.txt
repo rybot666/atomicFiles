@@ -3,20 +3,20 @@
 # these are comments
 
 # 0x150 (me)
-2f2b69af-7651-4960-8379-6df999b88d75 https://github.com/cornos/atomicFiles/raw/master/contribcape.png
+2f2b69af-7651-4960-8379-6df999b88d75 https://github.com/0x151/atomicFiles/raw/master/contribcape.png
 # authom
-727d046e-465b-46c1-9ff3-1f096443f2e3 https://github.com/cornos/atomicFiles/raw/master/contribcape.png
+727d046e-465b-46c1-9ff3-1f096443f2e3 https://github.com/0x151/atomicFiles/raw/master/contribcape.png
 # ashley
-56f5721e-2d19-416a-a811-2aed4f982c51 https://github.com/cornos/atomicFiles/raw/master/ashley2.png
+56f5721e-2d19-416a-a811-2aed4f982c51 https://github.com/0x151/atomicFiles/raw/master/ashley2.png
 # sexyzine
-4b476b2e-2448-4c90-8fe9-fe0983f3d68e https://github.com/cornos/atomicFiles/raw/master/zinezockt_big.png
+4b476b2e-2448-4c90-8fe9-fe0983f3d68e https://github.com/0x151/atomicFiles/raw/master/zinezockt_big.png
 # h4rl
-76db8532-a54e-4227-b685-55446351c3c4 https://github.com/cornos/atomicFiles/raw/master/harl.png
+76db8532-a54e-4227-b685-55446351c3c4 https://github.com/0x151/atomicFiles/raw/master/harl.png
 # tayron
-01b8306f-9e5b-4f26-b2ba-31b904efef71 https://github.com/cornos/atomicFiles/raw/master/64BitSkitTayron.png
+01b8306f-9e5b-4f26-b2ba-31b904efef71 https://github.com/0x151/atomicFiles/raw/master/64BitSkitTayron.png
 # MisterX
-47f7185c-5a27-4ab5-82e8-98e7e20c85b6 https://github.com/cornos/atomicFiles/raw/master/misterxcape.png
+47f7185c-5a27-4ab5-82e8-98e7e20c85b6 https://github.com/0x151/atomicFiles/raw/master/misterxcape.png
 # Eren
-ade36e5c-cee6-40f9-b534-1b3d8365d48e https://github.com/cornos/atomicFiles/raw/master/erenCape.png
+ade36e5c-cee6-40f9-b534-1b3d8365d48e https://github.com/0x151/atomicFiles/raw/master/erenCape.png
 # Dis
 c72c501d-387f-4de0-94b5-0f055e602d4e https://github.com/0x151/atomicFiles/raw/master/discape.png
