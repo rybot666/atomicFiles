@@ -19,4 +19,4 @@
 # Eren
 ade36e5c-cee6-40f9-b534-1b3d8365d48e https://github.com/0x151/atomicFiles/raw/master/erenCape.png
 # Dis
-c72c501d-387f-4de0-94b5-0f055e602d4e https://github.com/0x151/atomicFiles/raw/master/discape.png
+c72c501d-387f-4de0-94b5-0f055e602d4e https://github.com/0x151/atomicFiles/raw/master/discape2.png
