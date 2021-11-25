@@ -6,6 +6,8 @@
 2f2b69af-7651-4960-8379-6df999b88d75 https://github.com/0x151/atomicFiles/raw/master/contribcape.png
 # authom
 727d046e-465b-46c1-9ff3-1f096443f2e3 https://github.com/0x151/atomicFiles/raw/master/contribcape.png
+# Rybot
+e4093360-a200-4f99-aa13-be420b8d9a79 https://github.com/0x151/atomicFiles/raw/master/contribcape.png
 # ashley
 56f5721e-2d19-416a-a811-2aed4f982c51 https://github.com/0x151/atomicFiles/raw/master/ashley2.png
 # sexyzine
